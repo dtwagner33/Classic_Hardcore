@@ -28,3 +28,9 @@
   - The two characters must be controlled by different players.
   
 ---
+
+**Site Links:**
+- [Home](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/README.md)
+- [Achievements](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Achievements.md)
+- [Classes](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Classes.md)
+- [Helpful Links](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Links.md)
