@@ -199,3 +199,9 @@ Cons:
 Shamans are a decent pick for their strengths, but they are a fantastic pick for fun. The range of abilities a shaman has across their toolkit, and especially in their totems, is unlike any other class's. They are not the fastest and can be difficult to sustain in early levels, but once they get access to more tools, they become a pretty strong class to survive the grind.
 
 ---
+
+**Site Links:**
+- [Home](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/README.md)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Rules)
+- [Achievements](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Achievements.md)
+- [Helpful Links](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Links.md)
