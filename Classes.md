@@ -202,6 +202,6 @@ Shamans are a decent pick for their strengths, but they are a fantastic pick for
 
 **Site Links:**
 - [Home](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/README.md)
-- [Challenge Rules](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Rules)
+- [Challenge Rules](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Rules.md)
 - [Achievements](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Achievements.md)
 - [Helpful Links](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Links.md)
