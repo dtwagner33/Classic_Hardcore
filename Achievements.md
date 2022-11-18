@@ -104,8 +104,8 @@ If the challenge itself isn't enough for you, try adding on these modifiers for 
 
 ---
 
-**Links:**
-- [Home](https://github.com/ultrasoftcore345/Classic_Hardcore/edit/main/README.md)
+**Site Links:**
+- [Home](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/README.md)
 - [Challenge Rules](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Rules)
 - [Classes](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Classes.md)
 - [Helpful Links](https://github.com/ultrasoftcore345/Classic_Hardcore/blob/main/Links.md)
